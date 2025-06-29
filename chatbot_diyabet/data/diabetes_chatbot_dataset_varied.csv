@@ -1,0 +1,989 @@
+Intent,Example,Response
+Greeting,Merhaba! (1),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Selamlar. (2),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Gunaydin. (3),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Gunaydin. (4),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Gunaydin. (5),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Merhaba! (6),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Gunaydin. (7),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Gunaydin. (8),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Gunaydin. (9),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Merhaba! (10),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Selamlar. (11),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Selamlar. (12),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Selamlar. (13),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Merhaba! (14),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Gunaydin. (15),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Gunaydin. (16),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Merhaba! (17),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Merhaba! (18),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Gunaydin. (19),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Selamlar. (20),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Selamlar. (21),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Gunaydin. (22),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Merhaba! (23),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Selamlar. (24),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Selamlar. (25),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Selamlar. (26),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Gunaydin. (27),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Merhaba! (28),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Selamlar. (29),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Selamlar. (30),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Selamlar. (31),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Gunaydin. (32),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Merhaba! (33),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Gunaydin. (34),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Merhaba! (35),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Gunaydin. (36),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Selamlar. (37),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Gunaydin. (38),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Gunaydin. (39),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Merhaba! (40),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Gunaydin. (41),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Selamlar. (42),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Merhaba! (43),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Selamlar. (44),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Merhaba! (45),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Gunaydin. (46),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Selamlar. (47),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Gunaydin. (48),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Merhaba! (49),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Selamlar. (50),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Gunaydin. (51),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Selamlar. (52),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Selamlar. (53),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Merhaba! (54),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Gunaydin. (55),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Selamlar. (56),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Merhaba! (57),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Selamlar. (58),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Selamlar. (59),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Gunaydin. (60),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Selamlar. (61),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Gunaydin. (62),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Merhaba! (63),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Selamlar. (64),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Merhaba! (65),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Merhaba! (66),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Gunaydin. (67),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Merhaba! (68),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Selamlar. (69),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Selamlar. (70),Selam! Diyabet hakkinda size nasil yardimci olabilirim?
+Greeting,Merhaba! (71),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Gunaydin. (72),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Gunaydin. (73),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Gunaydin. (74),Gunaydin! Diyabet sorulariniz icin buradayim.
+Greeting,Merhaba! (75),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Greeting,Merhaba! (76),Merhaba! Diyabet ile ilgili ne ogrenmek istersiniz?
+Goodbye,Hosca kal. (1),"Hosca kalin, tekrar beklerim."
+Goodbye,Hosca kal. (2),"Hosca kalin, tekrar beklerim."
+Goodbye,Kendine iyi bak. (3),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (4),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (5),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Kendine iyi bak. (6),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (7),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Gorusuruz. (8),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Hosca kal. (9),"Hosca kalin, tekrar beklerim."
+Goodbye,Kendine iyi bak. (10),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (11),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Hosca kal. (12),"Hosca kalin, tekrar beklerim."
+Goodbye,Hosca kal. (13),"Hosca kalin, tekrar beklerim."
+Goodbye,Kendine iyi bak. (14),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (15),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Hosca kal. (16),"Hosca kalin, tekrar beklerim."
+Goodbye,Hosca kal. (17),"Hosca kalin, tekrar beklerim."
+Goodbye,Kendine iyi bak. (18),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (19),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (20),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Hosca kal. (21),"Hosca kalin, tekrar beklerim."
+Goodbye,Kendine iyi bak. (22),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Hosca kal. (23),"Hosca kalin, tekrar beklerim."
+Goodbye,Hosca kal. (24),"Hosca kalin, tekrar beklerim."
+Goodbye,Kendine iyi bak. (25),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (26),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (27),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Hosca kal. (28),"Hosca kalin, tekrar beklerim."
+Goodbye,Kendine iyi bak. (29),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (30),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (31),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (32),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (33),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (34),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (35),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Kendine iyi bak. (36),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Hosca kal. (37),"Hosca kalin, tekrar beklerim."
+Goodbye,Gorusuruz. (38),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Hosca kal. (39),"Hosca kalin, tekrar beklerim."
+Goodbye,Gorusuruz. (40),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Gorusuruz. (41),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Kendine iyi bak. (42),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (43),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Kendine iyi bak. (44),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (45),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Kendine iyi bak. (46),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (47),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (48),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Kendine iyi bak. (49),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (50),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Gorusuruz. (51),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Hosca kal. (52),"Hosca kalin, tekrar beklerim."
+Goodbye,Hosca kal. (53),"Hosca kalin, tekrar beklerim."
+Goodbye,Kendine iyi bak. (54),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (55),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Hosca kal. (56),"Hosca kalin, tekrar beklerim."
+Goodbye,Gorusuruz. (57),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Hosca kal. (58),"Hosca kalin, tekrar beklerim."
+Goodbye,Kendine iyi bak. (59),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (60),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Hosca kal. (61),"Hosca kalin, tekrar beklerim."
+Goodbye,Hosca kal. (62),"Hosca kalin, tekrar beklerim."
+Goodbye,Kendine iyi bak. (63),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (64),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Hosca kal. (65),"Hosca kalin, tekrar beklerim."
+Goodbye,Gorusuruz. (66),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Kendine iyi bak. (67),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (68),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (69),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Kendine iyi bak. (70),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (71),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Kendine iyi bak. (72),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Kendine iyi bak. (73),Tesekkurler! Siz de kendinize iyi bakin.
+Goodbye,Gorusuruz. (74),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Gorusuruz. (75),Saglikli gunler! Kendinize dikkat edin.
+Goodbye,Kendine iyi bak. (76),Tesekkurler! Siz de kendinize iyi bakin.
+Refuse,Bunu ogrenmek istemiyorum. (1),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Paylasmak istemiyorum. (2),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bu bilgi gizli. (3),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bunu ogrenmek istemiyorum. (4),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Paylasmak istemiyorum. (5),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bunu ogrenmek istemiyorum. (6),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bunu ogrenmek istemiyorum. (7),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Paylasmak istemiyorum. (8),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Paylasmak istemiyorum. (9),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Paylasmak istemiyorum. (10),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bu bilgi gizli. (11),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bu bilgi gizli. (12),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bu bilgi gizli. (13),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Paylasmak istemiyorum. (14),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bu bilgi gizli. (15),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Paylasmak istemiyorum. (16),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bunu ogrenmek istemiyorum. (17),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Paylasmak istemiyorum. (18),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bunu ogrenmek istemiyorum. (19),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bunu ogrenmek istemiyorum. (20),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Paylasmak istemiyorum. (21),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bunu ogrenmek istemiyorum. (22),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bunu ogrenmek istemiyorum. (23),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Paylasmak istemiyorum. (24),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Paylasmak istemiyorum. (25),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bu bilgi gizli. (26),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bunu ogrenmek istemiyorum. (27),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bu bilgi gizli. (28),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bunu ogrenmek istemiyorum. (29),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bunu ogrenmek istemiyorum. (30),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Paylasmak istemiyorum. (31),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Paylasmak istemiyorum. (32),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bunu ogrenmek istemiyorum. (33),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bunu ogrenmek istemiyorum. (34),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Paylasmak istemiyorum. (35),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bunu ogrenmek istemiyorum. (36),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Paylasmak istemiyorum. (37),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Paylasmak istemiyorum. (38),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Paylasmak istemiyorum. (39),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bu bilgi gizli. (40),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bunu ogrenmek istemiyorum. (41),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bu bilgi gizli. (42),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bu bilgi gizli. (43),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bunu ogrenmek istemiyorum. (44),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Paylasmak istemiyorum. (45),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Paylasmak istemiyorum. (46),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bunu ogrenmek istemiyorum. (47),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bunu ogrenmek istemiyorum. (48),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bu bilgi gizli. (49),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Paylasmak istemiyorum. (50),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bu bilgi gizli. (51),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bu bilgi gizli. (52),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bunu ogrenmek istemiyorum. (53),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bunu ogrenmek istemiyorum. (54),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bunu ogrenmek istemiyorum. (55),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Paylasmak istemiyorum. (56),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bunu ogrenmek istemiyorum. (57),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Paylasmak istemiyorum. (58),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bunu ogrenmek istemiyorum. (59),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bunu ogrenmek istemiyorum. (60),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bunu ogrenmek istemiyorum. (61),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bu bilgi gizli. (62),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bu bilgi gizli. (63),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bu bilgi gizli. (64),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Paylasmak istemiyorum. (65),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bu bilgi gizli. (66),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Paylasmak istemiyorum. (67),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bu bilgi gizli. (68),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Paylasmak istemiyorum. (69),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bu bilgi gizli. (70),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Paylasmak istemiyorum. (71),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bu bilgi gizli. (72),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Bunu ogrenmek istemiyorum. (73),"Tamamdir, baska bir sorunuz var mi?"
+Refuse,Bu bilgi gizli. (74),"Uzgunum, bu konuda bilgi paylasamam. Lutfen doktorunuza danisin."
+Refuse,Paylasmak istemiyorum. (75),"Saygi duyarim, baska nasil yardimci olabilirim?"
+Refuse,Bunu ogrenmek istemiyorum. (76),"Tamamdir, baska bir sorunuz var mi?"
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (1),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (2),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (3),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (4),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (5),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (6),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (7),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (8),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (9),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (10),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (11),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (12),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (13),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (14),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (15),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (16),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (17),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (18),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (19),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (20),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (21),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (22),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (23),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (24),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (25),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (26),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (27),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (28),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (29),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (30),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (31),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (32),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (33),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (34),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (35),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (36),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (37),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (38),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (39),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (40),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (41),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (42),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (43),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (44),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (45),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (46),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (47),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (48),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (49),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (50),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (51),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (52),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (53),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (54),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (55),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (56),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (57),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (58),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (59),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (60),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Tokluk sekerim 250 cikti. (61),"Tokluk sekeri icin yuksek bir deger, insulininizi kontrol edin ve hekiminizi bilgilendirin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (62),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (63),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (64),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (65),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (66),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (67),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (68),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (69),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (70),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (71),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (72),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (73),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Ac kan sekerim 180 normal mi? (74),"Ac kan sekeri 100 ustu genelde yuksek sayilir, doktorunuza danisin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (75),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+BloodSugarCheck,Kan sekerim 200 cikti ne yapmaliyim? (76),"Kan sekeriniz yuksek, su icin, dinlenin ve gerekirse doktorunuzu arayin."
+Nutrition,Aksam yemeginde ne yemeliyim? (1),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (2),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (3),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabete uygun kahvalti nedir? (4),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (5),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (6),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (7),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Aksam yemeginde ne yemeliyim? (8),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (9),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (10),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (11),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (12),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (13),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (14),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (15),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (16),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabete uygun kahvalti nedir? (17),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (18),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabete uygun kahvalti nedir? (19),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (20),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabete uygun kahvalti nedir? (21),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (22),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (23),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (24),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (25),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (26),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (27),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (28),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (29),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (30),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (31),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (32),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabet icin atistirmalik onerir misin? (33),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabet icin atistirmalik onerir misin? (34),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Aksam yemeginde ne yemeliyim? (35),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (36),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (37),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (38),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (39),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (40),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (41),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (42),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (43),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (44),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (45),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (46),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabet icin atistirmalik onerir misin? (47),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabet icin atistirmalik onerir misin? (48),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabete uygun kahvalti nedir? (49),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (50),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (51),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (52),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (53),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Aksam yemeginde ne yemeliyim? (54),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (55),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (56),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabet icin atistirmalik onerir misin? (57),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabete uygun kahvalti nedir? (58),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (59),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabet icin atistirmalik onerir misin? (60),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabete uygun kahvalti nedir? (61),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (62),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabete uygun kahvalti nedir? (63),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabete uygun kahvalti nedir? (64),"Tam tahil, yumurta, yesillik ve sekersiz icecekler tercih edebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (65),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Aksam yemeginde ne yemeliyim? (66),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (67),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (68),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (69),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Aksam yemeginde ne yemeliyim? (70),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (71),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabet icin atistirmalik onerir misin? (72),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabet icin atistirmalik onerir misin? (73),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Diyabet icin atistirmalik onerir misin? (74),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+Nutrition,Aksam yemeginde ne yemeliyim? (75),"Sebze, zeytinyagli yemekler ve az miktarda tam tahil ekmegi tuketebilirsiniz."
+Nutrition,Diyabet icin atistirmalik onerir misin? (76),"Cig badem, findik, yogurt gibi protein agirlikli atistirmaliklar tercih edin."
+InsulinInfo,Insulin iğnesi nasil kullanilir? (1),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (2),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (3),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin iğnesi nasil kullanilir? (4),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (5),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (6),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (7),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (8),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (9),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (10),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (11),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (12),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (13),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (14),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (15),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (16),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (17),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (18),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (19),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (20),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (21),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (22),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (23),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (24),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (25),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (26),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin iğnesi nasil kullanilir? (27),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (28),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (29),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (30),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (31),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (32),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (33),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (34),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (35),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (36),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (37),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (38),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (39),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (40),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (41),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin iğnesi nasil kullanilir? (42),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (43),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (44),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (45),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (46),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin iğnesi nasil kullanilir? (47),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (48),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (49),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (50),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (51),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (52),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (53),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (54),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Hangi insulin daha etkili? (55),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (56),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (57),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Hangi insulin daha etkili? (58),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (59),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (60),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (61),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (62),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (63),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (64),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Hangi insulin daha etkili? (65),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin iğnesi nasil kullanilir? (66),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (67),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (68),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (69),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (70),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (71),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (72),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (73),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+InsulinInfo,Insulin iğnesi nasil kullanilir? (74),Iğneyi kullanmadan once ellerinizi temizleyin ve doktorunuzun gosterdigi sekilde uygulayin.
+InsulinInfo,Hangi insulin daha etkili? (75),"Her insulin turu farklidir, uygun tur icin endokrin uzmanina danisin."
+InsulinInfo,Insulin dozumu nasil ayarlayacagim? (76),Insulin dozunuz icin doktorunuzun talimatlarini uygulayin.
+Exercise,Egzersiz sekeri dusurur mu? (1),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Gunde kac adim atilmali? (2),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Hangi spor diyabete iyi gelir? (3),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Gunde kac adim atilmali? (4),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Egzersiz sekeri dusurur mu? (5),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (6),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (7),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (8),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Hangi spor diyabete iyi gelir? (9),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Egzersiz sekeri dusurur mu? (10),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (11),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (12),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (13),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (14),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (15),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Egzersiz sekeri dusurur mu? (16),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Gunde kac adim atilmali? (17),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Hangi spor diyabete iyi gelir? (18),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Egzersiz sekeri dusurur mu? (19),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (20),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Egzersiz sekeri dusurur mu? (21),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (22),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Gunde kac adim atilmali? (23),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Hangi spor diyabete iyi gelir? (24),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Gunde kac adim atilmali? (25),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Egzersiz sekeri dusurur mu? (26),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (27),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Egzersiz sekeri dusurur mu? (28),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (29),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Hangi spor diyabete iyi gelir? (30),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Egzersiz sekeri dusurur mu? (31),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (32),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Gunde kac adim atilmali? (33),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Hangi spor diyabete iyi gelir? (34),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Egzersiz sekeri dusurur mu? (35),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (36),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (37),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Gunde kac adim atilmali? (38),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Gunde kac adim atilmali? (39),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Gunde kac adim atilmali? (40),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Hangi spor diyabete iyi gelir? (41),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Gunde kac adim atilmali? (42),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Hangi spor diyabete iyi gelir? (43),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Gunde kac adim atilmali? (44),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Hangi spor diyabete iyi gelir? (45),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Egzersiz sekeri dusurur mu? (46),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (47),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (48),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Hangi spor diyabete iyi gelir? (49),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Hangi spor diyabete iyi gelir? (50),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Hangi spor diyabete iyi gelir? (51),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Egzersiz sekeri dusurur mu? (52),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (53),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Gunde kac adim atilmali? (54),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Egzersiz sekeri dusurur mu? (55),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (56),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (57),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Gunde kac adim atilmali? (58),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Gunde kac adim atilmali? (59),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Egzersiz sekeri dusurur mu? (60),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (61),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (62),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (63),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Gunde kac adim atilmali? (64),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Egzersiz sekeri dusurur mu? (65),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Hangi spor diyabete iyi gelir? (66),"Hafif yuruyus, yoga, pilates gibi aktiviteler onemlidir."
+Exercise,Egzersiz sekeri dusurur mu? (67),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Gunde kac adim atilmali? (68),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Gunde kac adim atilmali? (69),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Egzersiz sekeri dusurur mu? (70),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (71),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Gunde kac adim atilmali? (72),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Gunde kac adim atilmali? (73),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+Exercise,Egzersiz sekeri dusurur mu? (74),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Egzersiz sekeri dusurur mu? (75),"Evet, duzenli egzersiz kan sekerini dengelemeye yardimci olur."
+Exercise,Gunde kac adim atilmali? (76),Ortalama 7000-10000 adim gunde iyi bir hedef olabilir.
+DoctorAppointment,Hangi bolume gitmeliyim? (1),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (2),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi testler yapilir? (3),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi testler yapilir? (4),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (5),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (6),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi testler yapilir? (7),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi testler yapilir? (8),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (9),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi testler yapilir? (10),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (11),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi testler yapilir? (12),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi bolume gitmeliyim? (13),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi bolume gitmeliyim? (14),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi testler yapilir? (15),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi testler yapilir? (16),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi testler yapilir? (17),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi testler yapilir? (18),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi testler yapilir? (19),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi testler yapilir? (20),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi testler yapilir? (21),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi bolume gitmeliyim? (22),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi testler yapilir? (23),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi bolume gitmeliyim? (24),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi bolume gitmeliyim? (25),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi bolume gitmeliyim? (26),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (27),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi bolume gitmeliyim? (28),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi testler yapilir? (29),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi bolume gitmeliyim? (30),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi bolume gitmeliyim? (31),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi testler yapilir? (32),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (33),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (34),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi bolume gitmeliyim? (35),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi bolume gitmeliyim? (36),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi testler yapilir? (37),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (38),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi bolume gitmeliyim? (39),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi testler yapilir? (40),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (41),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (42),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi testler yapilir? (43),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (44),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi bolume gitmeliyim? (45),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (46),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi bolume gitmeliyim? (47),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (48),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi bolume gitmeliyim? (49),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi bolume gitmeliyim? (50),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi bolume gitmeliyim? (51),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi testler yapilir? (52),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (53),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi bolume gitmeliyim? (54),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (55),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (56),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (57),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi testler yapilir? (58),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi testler yapilir? (59),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi bolume gitmeliyim? (60),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi testler yapilir? (61),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi bolume gitmeliyim? (62),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi bolume gitmeliyim? (63),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi bolume gitmeliyim? (64),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi bolume gitmeliyim? (65),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi bolume gitmeliyim? (66),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi testler yapilir? (67),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (68),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi bolume gitmeliyim? (69),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi testler yapilir? (70),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (71),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi testler yapilir? (72),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+DoctorAppointment,Hangi bolume gitmeliyim? (73),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Kontrol icin ne zaman gitmeliyim? (74),En az 6 ayda bir seker profili icin doktora gorunun.
+DoctorAppointment,Hangi bolume gitmeliyim? (75),Endokrinoloji bolumu diyabet icin dogru tercihtir.
+DoctorAppointment,Hangi testler yapilir? (76),"HbA1c, ac ve tokluk sekeri testleri yapilir."
+Complication,Diyabet gozleri etkiler mi? (1),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Ayaklarda uyusma normal mi? (2),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Ayaklarda uyusma normal mi? (3),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Ayaklarda uyusma normal mi? (4),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Ayaklarda uyusma normal mi? (5),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Ayaklarda uyusma normal mi? (6),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Bobrekler zarar gorur mu? (7),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Diyabet gozleri etkiler mi? (8),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Diyabet gozleri etkiler mi? (9),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Bobrekler zarar gorur mu? (10),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Ayaklarda uyusma normal mi? (11),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Bobrekler zarar gorur mu? (12),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Diyabet gozleri etkiler mi? (13),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Diyabet gozleri etkiler mi? (14),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Diyabet gozleri etkiler mi? (15),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Diyabet gozleri etkiler mi? (16),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Bobrekler zarar gorur mu? (17),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Bobrekler zarar gorur mu? (18),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Bobrekler zarar gorur mu? (19),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Bobrekler zarar gorur mu? (20),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Diyabet gozleri etkiler mi? (21),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Diyabet gozleri etkiler mi? (22),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Bobrekler zarar gorur mu? (23),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Bobrekler zarar gorur mu? (24),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Ayaklarda uyusma normal mi? (25),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Diyabet gozleri etkiler mi? (26),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Ayaklarda uyusma normal mi? (27),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Diyabet gozleri etkiler mi? (28),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Bobrekler zarar gorur mu? (29),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Bobrekler zarar gorur mu? (30),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Diyabet gozleri etkiler mi? (31),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Bobrekler zarar gorur mu? (32),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Ayaklarda uyusma normal mi? (33),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Ayaklarda uyusma normal mi? (34),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Diyabet gozleri etkiler mi? (35),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Ayaklarda uyusma normal mi? (36),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Diyabet gozleri etkiler mi? (37),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Bobrekler zarar gorur mu? (38),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Diyabet gozleri etkiler mi? (39),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Diyabet gozleri etkiler mi? (40),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Ayaklarda uyusma normal mi? (41),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Diyabet gozleri etkiler mi? (42),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Ayaklarda uyusma normal mi? (43),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Diyabet gozleri etkiler mi? (44),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Diyabet gozleri etkiler mi? (45),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Ayaklarda uyusma normal mi? (46),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Ayaklarda uyusma normal mi? (47),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Ayaklarda uyusma normal mi? (48),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Diyabet gozleri etkiler mi? (49),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Ayaklarda uyusma normal mi? (50),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Diyabet gozleri etkiler mi? (51),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Bobrekler zarar gorur mu? (52),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Diyabet gozleri etkiler mi? (53),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Bobrekler zarar gorur mu? (54),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Diyabet gozleri etkiler mi? (55),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Ayaklarda uyusma normal mi? (56),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Ayaklarda uyusma normal mi? (57),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Ayaklarda uyusma normal mi? (58),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Ayaklarda uyusma normal mi? (59),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Bobrekler zarar gorur mu? (60),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Diyabet gozleri etkiler mi? (61),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Bobrekler zarar gorur mu? (62),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Diyabet gozleri etkiler mi? (63),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Diyabet gozleri etkiler mi? (64),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Bobrekler zarar gorur mu? (65),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Ayaklarda uyusma normal mi? (66),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Bobrekler zarar gorur mu? (67),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Ayaklarda uyusma normal mi? (68),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Diyabet gozleri etkiler mi? (69),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Bobrekler zarar gorur mu? (70),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Diyabet gozleri etkiler mi? (71),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Bobrekler zarar gorur mu? (72),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Bobrekler zarar gorur mu? (73),Uzun sureli kontrolsuz diyabet bobrek sagligini etkileyebilir.
+Complication,Ayaklarda uyusma normal mi? (74),"Diyabet ayaklarda sinir hasarina yol acabilir, doktorunuza danisin."
+Complication,Diyabet gozleri etkiler mi? (75),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+Complication,Diyabet gozleri etkiler mi? (76),"Evet, retinopati riski artar. Goz doktoru kontrolu onemlidir."
+MedicationInfo,Ilaclari ne zaman almaliyim? (1),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (2),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari ne zaman almaliyim? (3),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (4),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari ne zaman almaliyim? (5),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (6),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari ne zaman almaliyim? (7),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (8),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (9),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (10),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (11),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari birakabilir miyim? (12),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (13),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari birakabilir miyim? (14),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (15),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (16),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (17),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari ne zaman almaliyim? (18),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (19),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (20),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Metformin ne ise yarar? (21),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Metformin ne ise yarar? (22),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari birakabilir miyim? (23),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (24),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari birakabilir miyim? (25),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Metformin ne ise yarar? (26),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Metformin ne ise yarar? (27),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari birakabilir miyim? (28),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (29),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (30),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Metformin ne ise yarar? (31),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari ne zaman almaliyim? (32),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (33),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Metformin ne ise yarar? (34),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Metformin ne ise yarar? (35),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari ne zaman almaliyim? (36),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (37),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari ne zaman almaliyim? (38),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (39),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari ne zaman almaliyim? (40),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari birakabilir miyim? (41),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Ilaclari birakabilir miyim? (42),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Metformin ne ise yarar? (43),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari birakabilir miyim? (44),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Metformin ne ise yarar? (45),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Metformin ne ise yarar? (46),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari birakabilir miyim? (47),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Ilaclari birakabilir miyim? (48),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Metformin ne ise yarar? (49),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Metformin ne ise yarar? (50),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Metformin ne ise yarar? (51),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Metformin ne ise yarar? (52),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari birakabilir miyim? (53),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Ilaclari birakabilir miyim? (54),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (55),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (56),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari ne zaman almaliyim? (57),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (58),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari birakabilir miyim? (59),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Ilaclari birakabilir miyim? (60),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Metformin ne ise yarar? (61),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari birakabilir miyim? (62),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Ilaclari birakabilir miyim? (63),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (64),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (65),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari birakabilir miyim? (66),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Metformin ne ise yarar? (67),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari birakabilir miyim? (68),Ilac birakmak icin mutlaka doktora danisin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (69),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (70),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (71),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Metformin ne ise yarar? (72),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari ne zaman almaliyim? (73),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Metformin ne ise yarar? (74),"Metformin, kan sekerini dusurmek icin kullanilan bir ilactir."
+MedicationInfo,Ilaclari ne zaman almaliyim? (75),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+MedicationInfo,Ilaclari ne zaman almaliyim? (76),Ilaclarinizi doktorunuzun belirttigi saatlerde alin.
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (1),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekeri cok dusukse? (2),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekeri cok dusukse? (3),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekerim cok yuksekse? (4),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekerim cok yuksekse? (5),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekeri cok dusukse? (6),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekeri cok dusukse? (7),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekerim cok yuksekse? (8),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (9),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekeri cok dusukse? (10),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekerim cok yuksekse? (11),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekeri cok dusukse? (12),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (13),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (14),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (15),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (16),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekerim cok yuksekse? (17),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekeri cok dusukse? (18),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (19),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekerim cok yuksekse? (20),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekerim cok yuksekse? (21),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (22),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekerim cok yuksekse? (23),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekerim cok yuksekse? (24),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekeri cok dusukse? (25),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (26),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekerim cok yuksekse? (27),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekeri cok dusukse? (28),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekeri cok dusukse? (29),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekeri cok dusukse? (30),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (31),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekeri cok dusukse? (32),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekeri cok dusukse? (33),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekeri cok dusukse? (34),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekerim cok yuksekse? (35),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (36),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (37),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (38),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (39),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekeri cok dusukse? (40),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekeri cok dusukse? (41),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekerim cok yuksekse? (42),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (43),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (44),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekerim cok yuksekse? (45),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekeri cok dusukse? (46),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekeri cok dusukse? (47),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekerim cok yuksekse? (48),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (49),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekerim cok yuksekse? (50),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekerim cok yuksekse? (51),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekeri cok dusukse? (52),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekeri cok dusukse? (53),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekeri cok dusukse? (54),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekeri cok dusukse? (55),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (56),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekeri cok dusukse? (57),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekerim cok yuksekse? (58),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (59),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekeri cok dusukse? (60),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (61),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekeri cok dusukse? (62),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (63),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekerim cok yuksekse? (64),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (65),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekeri cok dusukse? (66),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekerim cok yuksekse? (67),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekeri cok dusukse? (68),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekerim cok yuksekse? (69),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (70),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (71),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekerim cok yuksekse? (72),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Kan sekeri cok dusukse? (73),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+EmergencyAdvice,Kan sekerim cok yuksekse? (74),"Su icin, dinlenin ve insulin alimini kontrol edin."
+EmergencyAdvice,Hipoglisemi ne yapmaliyim? (75),"Hemen sekerli icecek icin, gerekirse acil servise basvurun."
+EmergencyAdvice,Kan sekeri cok dusukse? (76),Tatli yiyecek tuketin ve 15 dakika sonra sekerinizi tekrar olcun.
+DiabetesType,Tip 2 tedavi edilir mi? (1),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 1 diyabet nedir? (2),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 diyabet farki nedir? (3),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 2 diyabet farki nedir? (4),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 1 diyabet nedir? (5),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (6),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (7),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (8),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 tedavi edilir mi? (9),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 2 diyabet farki nedir? (10),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 2 diyabet farki nedir? (11),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 2 diyabet farki nedir? (12),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 2 tedavi edilir mi? (13),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 1 diyabet nedir? (14),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 diyabet farki nedir? (15),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 1 diyabet nedir? (16),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (17),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 tedavi edilir mi? (18),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 2 tedavi edilir mi? (19),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 2 diyabet farki nedir? (20),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 2 tedavi edilir mi? (21),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 2 diyabet farki nedir? (22),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 1 diyabet nedir? (23),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 tedavi edilir mi? (24),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 1 diyabet nedir? (25),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 diyabet farki nedir? (26),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 1 diyabet nedir? (27),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (28),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (29),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 diyabet farki nedir? (30),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 1 diyabet nedir? (31),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (32),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (33),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 tedavi edilir mi? (34),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 1 diyabet nedir? (35),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (36),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 diyabet farki nedir? (37),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 1 diyabet nedir? (38),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 tedavi edilir mi? (39),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 2 diyabet farki nedir? (40),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 2 tedavi edilir mi? (41),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 1 diyabet nedir? (42),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (43),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 diyabet farki nedir? (44),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 2 tedavi edilir mi? (45),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 2 tedavi edilir mi? (46),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 1 diyabet nedir? (47),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (48),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 tedavi edilir mi? (49),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 1 diyabet nedir? (50),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 diyabet farki nedir? (51),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 1 diyabet nedir? (52),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (53),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 tedavi edilir mi? (54),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 1 diyabet nedir? (55),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 diyabet farki nedir? (56),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 1 diyabet nedir? (57),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (58),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (59),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 tedavi edilir mi? (60),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 1 diyabet nedir? (61),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (62),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (63),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 tedavi edilir mi? (64),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 2 diyabet farki nedir? (65),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 2 tedavi edilir mi? (66),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 2 tedavi edilir mi? (67),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 2 diyabet farki nedir? (68),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 2 diyabet farki nedir? (69),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 2 tedavi edilir mi? (70),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 1 diyabet nedir? (71),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 1 diyabet nedir? (72),Tip 1 diyabet bagisiklik sisteminin pankreas hucrelerini yok etmesidir.
+DiabetesType,Tip 2 diyabet farki nedir? (73),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 2 diyabet farki nedir? (74),"Tip 2 genelde yasam tarzina bagli gelisir, insuline karsi direnc gorulur."
+DiabetesType,Tip 2 tedavi edilir mi? (75),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+DiabetesType,Tip 2 tedavi edilir mi? (76),Erken donemde beslenme ve spor ile kontrol altina alinabilir.
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (1),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Stres sekeri etkiler mi? (2),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Stres sekeri etkiler mi? (3),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (4),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (5),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (6),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (7),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (8),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (9),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Hangi aliskanliklar onemli? (10),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Hangi aliskanliklar onemli? (11),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Stres sekeri etkiler mi? (12),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (13),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Hangi aliskanliklar onemli? (14),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Stres sekeri etkiler mi? (15),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Stres sekeri etkiler mi? (16),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Stres sekeri etkiler mi? (17),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Stres sekeri etkiler mi? (18),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (19),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Hangi aliskanliklar onemli? (20),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (21),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Stres sekeri etkiler mi? (22),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (23),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Hangi aliskanliklar onemli? (24),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (25),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Stres sekeri etkiler mi? (26),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Stres sekeri etkiler mi? (27),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Stres sekeri etkiler mi? (28),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Hangi aliskanliklar onemli? (29),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Hangi aliskanliklar onemli? (30),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Hangi aliskanliklar onemli? (31),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Hangi aliskanliklar onemli? (32),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Stres sekeri etkiler mi? (33),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Stres sekeri etkiler mi? (34),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Stres sekeri etkiler mi? (35),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (36),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (37),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (38),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (39),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Hangi aliskanliklar onemli? (40),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Stres sekeri etkiler mi? (41),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Stres sekeri etkiler mi? (42),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Hangi aliskanliklar onemli? (43),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Hangi aliskanliklar onemli? (44),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (45),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Stres sekeri etkiler mi? (46),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Stres sekeri etkiler mi? (47),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (48),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (49),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Hangi aliskanliklar onemli? (50),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Hangi aliskanliklar onemli? (51),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Hangi aliskanliklar onemli? (52),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Stres sekeri etkiler mi? (53),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Hangi aliskanliklar onemli? (54),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (55),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (56),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (57),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Hangi aliskanliklar onemli? (58),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Stres sekeri etkiler mi? (59),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (60),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (61),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Stres sekeri etkiler mi? (62),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (63),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Hangi aliskanliklar onemli? (64),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Hangi aliskanliklar onemli? (65),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Hangi aliskanliklar onemli? (66),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (67),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (68),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Stres sekeri etkiler mi? (69),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (70),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Hangi aliskanliklar onemli? (71),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (72),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Hangi aliskanliklar onemli? (73),"Dengeli beslenme, duzenli spor, duzenli kontrol sarttir."
+LifestyleTips,Sigara icmek diyabeti etkiler mi? (74),"Sigara icmek komplikasyon riskini artirir, birakmak faydalidir."
+LifestyleTips,Stres sekeri etkiler mi? (75),"Evet, stres kan sekerini artirabilir."
+LifestyleTips,Stres sekeri etkiler mi? (76),"Evet, stres kan sekerini artirabilir."
